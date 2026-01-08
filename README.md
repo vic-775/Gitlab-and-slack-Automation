@@ -1,6 +1,6 @@
 # GitLab Daily Stand-Up Workflow Documentation
 
-![Workflow Overview](./gitlab-slack-automation.png)
+![Workflow Overview](./gitlab-slack%20automation.png)
 
 ## Summary
 
