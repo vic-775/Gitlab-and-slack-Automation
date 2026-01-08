@@ -1,6 +1,8 @@
 # GitLab Daily Stand-Up Workflow Documentation
 
-## Overview
+![Workflow Overview](./gitlab-slack-automation.png)
+
+## Summary
 
 This n8n workflow automates daily stand-up meetings for a freelance team using Slack and GitLab. It runs on weekdays and performs two main functions:
 
